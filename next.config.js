@@ -111,7 +111,6 @@ const nextConfig = {
     : async () => {
         // 处理多语言重定向
         const langsRewrites = []
-        console.log("D:CarlQvQ's BlogNotionNextnext.config.js处理多语言重定向")
         if (BLOG.NOTION_PAGE_ID.indexOf(',') > 0) {
           const siteIds = BLOG.NOTION_PAGE_ID.split(',')
           const langs = []

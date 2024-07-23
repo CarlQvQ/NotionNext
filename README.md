@@ -22,23 +22,12 @@ A static blog system built with NextJS and Notion API, deployed on Vercel. Desig
 
 ## Preview
 
-Live Demo：[https://preview.tangly1024.com/](https://preview.tangly1024.com/) ，Project supports switching between multiple themes. Can't find a theme you like? How about [contributing](/CONTRIBUTING.md) one?~
 
 | Next | Medium | Hexo | Fukasawa |
 |--|--|--|--|
 | <img src='./docs/theme-next.png' width='300'/> [NEXT](https://preview.tangly1024.com/?theme=next)  | <img src='./docs/theme-medium.png' width='300'/> [MEDIUM](https://preview.tangly1024.com/?theme=medium) | <img src='./docs/theme-hexo.png' width='300'/> [HEXO](https://preview.tangly1024.com/?theme=hexo) | <img src='./docs/theme-fukasawa.png' width='300'/> [FUKASAWA](https://preview.tangly1024.com/?theme=fukasawa) |
 
 
-## Acknowledgements
-
-Special thanks to Craig Hart for initiating the Nobelium project.
-
-<table><tr align="left">
-  <td align="center"><a href="https://github.com/craigary" title="Craig Hart"><img src="https://avatars.githubusercontent.com/u/10571717" width="64px;"alt="Craig Hart"/></a><br/><a href="https://github.com/craigary" title="Craig Hart">Craig Hart</a></td>
-</tr></table>
-
-</tr>
-</table>
 
 
 ## Technologies Used
