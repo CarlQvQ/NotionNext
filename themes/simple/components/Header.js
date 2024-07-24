@@ -11,8 +11,9 @@ import SocialButton from './SocialButton'
 export default function Header(props) {
   const { siteInfo } = props
 
+//    <header className='text-center justify-between items-center px-6 bg-white h-80 dark:bg-black relative z-10'>
   return (
-    <header className='text-center justify-between items-center px-6 bg-white h-80 dark:bg-black relative z-10'>
+    <header className='text-center justify-between items-center px-6 bg-white dark:bg-black relative z-10'>
       <div className='float-none inline-block py-12'>
         <Link href='/'>
           {/* 可使用一张单图作为logo */}
