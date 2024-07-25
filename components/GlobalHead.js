@@ -96,6 +96,7 @@ const GlobalHead = props => {
   return (
     <Head>
       <link rel='icon' href={favicon} />
+      <meta name="google-site-verification" content="p3--pbZ2P5akagKVC31zC3Lc5BRUUl0-z85xOt96kMs" />
       <title>{title}</title>
       <meta name='theme-color' content={BACKGROUND_DARK} />
       <meta
